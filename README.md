@@ -46,5 +46,5 @@ I love turning ideas into visually appealing, responsive web experiences — wit
 
 ## 📫 Contact
 - 📧 **Email:** asem.mohamed.dev@gmail.com 
-- 🔗 **LinkedIn:** [your-linkedin-link ](https://www.linkedin.com/in/assem-sadek-13aa132a0/)  
+- 🔗 [**LinkedIn:**](https://www.linkedin.com/in/assem-sadek-13aa132a0/)  
 
