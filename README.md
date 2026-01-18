@@ -1,21 +1,21 @@
 # 👋 Hi, I'm **Asem Mohamed**
 
-### 🎨 Frontend Engineer | React & Next.js Specialist  
-I’m a Software Engineer with a strong passion for **frontend development**, **UI/UX design**, and **building clean, scalable interfaces**.  
-I love turning ideas into visually appealing, responsive web experiences — with a **keen eye for detail**, smooth layouts, and consistent design systems.
-
+### 🧑‍💻 Full Stack Engineer | Next.js & API-Driven Systems  
+I’m a Full Stack Software Engineer with a strong passion for building end-to-end web applications, from intuitive user interfaces to robust backend systems.
+I enjoy designing scalable architectures, crafting clean APIs, and delivering polished user experiences that balance performance, maintainability, and visual quality.
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 **Software Engineer** (Germany)  
-- 💻 **Frontend Engineer specialized in React & Next.js**  
-- 🎨 Passionate about **design, UI/UX**, and polished user experiences  
-- 🔌 Skilled in **Responsive Design**, **API integration**, and **reusable component architecture**  
-- 🚀 Open to **frontend roles**, HCI-related projects, and collaborative web development work  
+- 💻 **Full Stack Engineer specialized in Next.js and modern backend frameworks**  
+- 🎨 Strong background in **UI/UX design** with an engineering-first mindset  
+- 🔌 Skilled in **Responsive Design**, **API integration**, and **reusable component architecture**
+- ⚙️ Experienced in **API design**, **database-backed applications**, and **full stack system integration**  
+- 🚀 Open to full stack roles, HCI-related projects, and impactful software engineering work  
 
 ---
 
-## ✨ Showcases (GIFs of My Designs)
+## ✨ Showcases (GIFs of websites I made)
 
 | Project | Preview |
 |--------|---------|
