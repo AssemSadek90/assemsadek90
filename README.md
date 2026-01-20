@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Asem Mohamed**
 
 ### 🧑‍💻 Full Stack Engineer | Next.js & API-Driven Systems  
-I’m a Full Stack Software Engineer with a strong passion for building end-to-end web applications, from intuitive user interfaces to robust backend systems.
+I’m a Full Stack Software Engineer with a Medical Engineering background and a strong passion for building end-to-end web applications, from intuitive user interfaces to robust backend systems.
 I enjoy designing scalable architectures, crafting clean APIs, and delivering polished user experiences that balance performance, maintainability, and visual quality.
 ---
 
